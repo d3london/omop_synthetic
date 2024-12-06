@@ -7,7 +7,7 @@
 
 To use:
 
-1. Configure cohort size and number of visits in create_synthetic_omop.py
+1. Configure cohort size and number of visits in `create_synthetic_omop.py`
 
 2. Generate data: `python create_synthetic_omop.py`
 
