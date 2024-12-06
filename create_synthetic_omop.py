@@ -3,7 +3,6 @@ import pandas as pd
 
 n_persons = 10000
 n_visits = 50000
-export_dir = 'export'
 
 # person
 person_ids = generate_person_ids(n_persons)
